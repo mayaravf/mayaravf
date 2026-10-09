@@ -3,7 +3,7 @@
 ```typescript
 const mayara = {
   code: ["TypeScript", "JavaScript", "Python", "Java", "C"],
-  devOps: ["GitHub Actions", "Azure DevOps", "Kubernetes", "Helm", "Vault"],
+  devOps: ["GitHub Actions", "Azure DevOps", "Kubernetes", "Helm", "Terraform", "OpenTofu", "Vault"],
   cloud: ["SAP BTP", "Cloud Foundry", "Docker"],
   security: ["CheckmarxOne", "Secret Scanning", "Black Duck"],
   frameworks: ["SAP CAP", "SAP UI5", "Node.js"],
@@ -16,10 +16,11 @@ const mayara = {
 
 ### 🚀 About Me
 
-I am a **DevOps & Software Engineer** with a strong background in **Electrical Engineering**. Currently, I specialize in building secure, automated CI/CD pipelines, managing cloud infrastructure, and developing full-stack applications.
+I am a **DevOps & Software Engineer** with a strong background in **Electrical Engineering**. Currently, I specialize in building secure, automated CI/CD pipelines, managing cloud infrastructure with Infrastructure as Code (IaC), and developing full-stack applications.
 
 - 💼 **Current Role**: DevOps Engineer at **SAP** (working with SAP BTP, Cloud Foundry, Azure DevOps & GitHub Actions).
-- 🛡️ **DevOps & Security Focus**: Pipeline security (CheckmarxOne, Black Duck, Secret Scanning), HashiCorp Vault secret management, and Kubernetes / Helm orchestration.
+- 🏗️ **DevOps & IaC Focus**: Infrastructure as Code (**Terraform**, **OpenTofu**), Kubernetes / Helm orchestration, and HashiCorp Vault secret management.
+- 🛡️ **Pipeline Security**: Implementing enterprise security tooling (CheckmarxOne, Black Duck, Secret Scanning) in CI/CD pipelines.
 - 💻 **Full-Stack Development**: Extensive experience with **JavaScript**, **TypeScript**, **SAP CAP (Cloud Application Programming)**, and **SAP UI5**.
 - 🎓 **Education**: 
   - 🎓 Postgraduate Degree in **DevOps & Cloud Architecture** at **FIAP** (In Progress)
@@ -33,7 +34,7 @@ I am a **DevOps & Software Engineer** with a strong background in **Electrical E
 | :--- | :--- | :--- |
 | 🎛️ **[ToggleMaster Monolith](https://github.com/walteribeiro/toggle-master-monolith)** | Contributed as a key collaborator on a feature flag & toggle management system built with monolithic architecture. | `TypeScript` `Node.js` `Software Architecture` |
 | 🚀 **[TC-2 ToggleMaster Org](https://github.com/TC-2-ToggleMaster)** | GitHub Organization dedicated to developing the next-generation microservices architecture for the ToggleMaster platform. | `DevOps` `Microservices` `Cloud` `CI/CD` |
-| 📦 **[Despensa](https://github.com/mayaravf/despensa)** | Full-stack application & automated Kubernetes deployment with Helm charts, rolling update strategies, HTTP probes, resource management, and node taints/tolerations. | `Kubernetes` `Helm` `Docker` `TypeScript` `Node.js` |
+| 📦 **[Despensa](https://github.com/mayaravf/despensa)** | Automated Kubernetes deployment with Helm charts, demonstrating **RollingUpdate**, **Blue/Green** & **Canary** strategies, HTTP probes, resource management, and node taints/tolerations. | `Kubernetes` `Helm` `Docker` `TypeScript` `Node.js` |
 | ☁️ **SAP BTP Cloud Apps** | Cloud microservices and enterprise solutions using SAP Cloud Application Programming Model (CAP) and SAP UI5 on Cloud Foundry. | `SAP CAP` `SAP UI5` `JavaScript` `Cloud Foundry` |
 | ⚡ **Power Systems High-Freq Transient Model** | Computational modeling tool developed at UFRGS to simulate and analyze high-frequency electrical transients in power transmission transformers. | `Scilab` `C` `Micro-cap` `MATLAB` |
 
@@ -41,7 +42,9 @@ I am a **DevOps & Software Engineer** with a strong background in **Electrical E
 
 ### 🛠️ Tech Stack & Tools
 
-#### ☁️ DevOps, Cloud & Security
+#### ☁️ DevOps, IaC, Cloud & Security
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FF4747?style=for-the-badge&logo=opentofu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -67,6 +70,7 @@ I am a **DevOps & Software Engineer** with a strong background in **Electrical E
 * **DevOps & Full-Stack Engineer @ SAP** *(2021 – Present)*
   * Evolved from Frontend, Backend, and Full-Stack development to **DevOps Engineering**.
   * Designed and maintained robust **CI/CD pipelines** using **GitHub Actions** and **Azure DevOps**.
+  * Managed Infrastructure as Code (IaC) with **Terraform** & **OpenTofu**.
   * Implemented enterprise **security tooling** in pipelines (CheckmarxOne, Secret Scanning, Black Duck) and secret governance via **Vault**.
   * Deployed and managed applications on **SAP BTP (Business Technology Platform)** and **Cloud Foundry**.
 
