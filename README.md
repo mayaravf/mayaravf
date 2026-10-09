@@ -7,7 +7,7 @@ const mayara = {
   cloud: ["SAP BTP", "Cloud Foundry", "Docker"],
   security: ["CheckmarxOne", "Secret Scanning", "Black Duck"],
   frameworks: ["SAP CAP", "SAP UI5", "Node.js"],
-  background: "Electrical Engineering @ UFRGS",
+  education: "Postgrad in DevOps & Cloud Architecture @ FIAP | Electrical Engineering @ UFRGS",
   currentRole: "DevOps Engineer @ SAP"
 };
 ```
@@ -21,7 +21,9 @@ I am a **DevOps & Software Engineer** with a strong background in **Electrical E
 - 💼 **Current Role**: DevOps Engineer at **SAP** (working with SAP BTP, Cloud Foundry, Azure DevOps & GitHub Actions).
 - 🛡️ **DevOps & Security Focus**: Pipeline security (CheckmarxOne, Black Duck, Secret Scanning), HashiCorp Vault secret management, and Kubernetes / Helm orchestration.
 - 💻 **Full-Stack Development**: Extensive experience with **JavaScript**, **TypeScript**, **SAP CAP (Cloud Application Programming)**, and **SAP UI5**.
-- 🎓 **Education**: Electrical Engineering background at **UFRGS** and **Fundação Liberato**.
+- 🎓 **Education**: 
+  - 🎓 Postgraduate Degree in **DevOps & Cloud Architecture** at **FIAP** (In Progress)
+  - ⚡ Bachelor in **Electrical Engineering** at **UFRGS** & **Fundação Liberato**
 
 ---
 
@@ -79,18 +81,18 @@ I am a **DevOps & Software Engineer** with a strong background in **Electrical E
 
 ### 🌐 Languages
 
-🗣️ **Portuguese** (Native) | 🇬🇧 **English** (Proficient) | 🇪🇸 **Spanish** (Basic) | 🇯🇵 **Japanese** (Basic) | 🤟 **LIBRAS** (Basic)
+🗣️ **Portuguese** (Native) | 🇬🇧 **English** (Fluent) | 🇪🇸 **Spanish** (Basic) | 🇰🇷 **Korean** (Basic)
 
 ---
 
+<!-- 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayaravf&show_icons=true&theme=tokyonight&count_private=true" alt="Mayara's GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaravf&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175" />
 </p>
-
----
+-->
 
 ### 📫 Connect with Me
 
